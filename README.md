@@ -4,8 +4,8 @@ Alumno: Emiliano Richard
 
 ## Descripcion del problema
 
-El dataset elegido posee el listado de talleres (Workshops), Clientes y Vehiculos (Camiones y Colectivos).
-Utilizando el Algoritmo de K-nearest-neighbors(KNN) se procedio a entrenar un modelo de ML para luego mediante un endpoint si se envia la ubicacion geografica se devuelve el mejor taller para realizar los servicios y las reparaciones de las unidades adquiridas.
+El dataset elegido posee un listado de talleres (workshops), clientes y sus respectivos vehiculos (Camiones y Colectivos).
+Utilizando el Algoritmo de K-nearest-neighbors(KNN) se procedio a entrenar un modelo de ML para luego mediante un endpoint si se envia la ubicacion geografica (latitud y longitud) se devuelve el mejor taller para realizar los servicios y las reparaciones de las unidades adquiridas.
 
 ## :hammer: Arquitectura AWS
 
